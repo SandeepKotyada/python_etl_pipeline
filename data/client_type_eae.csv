@@ -1,0 +1,5 @@
+﻿client_type_id,client_type_description,client_type_abv
+0,Individual,I
+1,Company,C
+3,Community of owners,CO
+2,Self-employed,SE
