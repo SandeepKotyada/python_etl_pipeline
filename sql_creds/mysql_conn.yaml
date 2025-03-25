@@ -1,5 +1,5 @@
 data_warehouse:
   user: root
-  password: Sanu%40123
+  password: passwd
   host: 127.0.0.1
   database: python_assignment
